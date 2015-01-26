@@ -12,7 +12,6 @@ While the original contains references that are specific to the Thinkster tutori
 [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) and
 [Node.js](http://nodejs.org/).*
 
-* Fork this repository.
 * `$ git clone git@github.com:<your username>/django-angular-rest.git`
 * `$ mkvirtualenv your-project-name`
 * `$ cd your-project-name/`
